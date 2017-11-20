@@ -1,0 +1,10 @@
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/bin/Debug/netcoreapp2.0/DependancyInjectionExample.deps.json
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/bin/Debug/netcoreapp2.0/DependancyInjectionExample.runtimeconfig.json
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/bin/Debug/netcoreapp2.0/DependancyInjectionExample.runtimeconfig.dev.json
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/bin/Debug/netcoreapp2.0/DependancyInjectionExample.dll
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/bin/Debug/netcoreapp2.0/DependancyInjectionExample.pdb
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/obj/Debug/netcoreapp2.0/DependancyInjectionExample.csproj.CoreCompileInputs.cache
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/obj/Debug/netcoreapp2.0/DependancyInjectionExample.AssemblyInfoInputs.cache
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/obj/Debug/netcoreapp2.0/DependancyInjectionExample.AssemblyInfo.cs
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/obj/Debug/netcoreapp2.0/DependancyInjectionExample.dll
+/Users/ArendOppewal/Documents/GitHub/DependancyInjectionExample/obj/Debug/netcoreapp2.0/DependancyInjectionExample.pdb
